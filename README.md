@@ -1,16 +1,23 @@
-## Hi there 👋
+# Matthew Palmer
 
-<!--
-**mattp8638/mattp8638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Projects
 
-Here are some ideas to get you started:
+### 🤖 [AI-Pentester]
+`Python`  
+AI-assisted penetration testing tooling. Automates reconnaissance and attack surface enumeration tasks. - However AI module has been removed 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦠 [Antivirus-Attempt]
+`Rust`  
+An attempt at building antivirus detection logic from scratch in Rust. Explores signature matching and behavioural heuristics at a low level.
+
+### 📺 [Media Manager]
+`Python`  
+Local media library management tooling. Handles organisation, cataloguing, and automation of media collections.
+
+### 📡 [RSS-Feeds / Threat Feed]
+`TypeScript`  
+A self-hosted threat intelligence RSS aggregation system. Pulls, normalises, and surfaces threat feed data in one place.
+
+---
+
+> More repositories being migrated and cleaned up — watch this space. 
