@@ -6,7 +6,7 @@ I’m a Systems, Security & Automation Engineer with a strong interest in buildi
 
 Most of my development happens outside of work — through hands-on experimentation, self-hosted environments, and building tools that solve practical problems.
 
-This GitHub is where I publish my **public-facing projects**, experiments, and ideas. My active development work and in-progress systems are maintained separately in private repositories.
+This GitHub is where I publish my **public-facing projects**, experiments, and ideas. My active development work and in-progress systems are maintained separately in private repositories @zy538324
 
 ---
 
