@@ -106,7 +106,6 @@ Alongside these projects, I maintain lab environments where I:
 ---
 
 ## 🤝 Connect
-https://www.linkedin.com/in/matthew-p-b6680b10b/
 
 If you’re working on similar problems, experimenting with systems, or building interesting tools — feel free to connect or reach out.
 
