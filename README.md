@@ -1,3 +1,5 @@
+💻 Python | ⚙️ Automation | 🔐 Security | 🤖 AI Exploration
+
 # 👋 Hi, I’m Matthew
 
 I’m a Systems, Security & Automation Engineer with a strong interest in building, breaking, and improving real-world systems.
