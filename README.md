@@ -6,7 +6,7 @@ I build practical security tools that solve real-world problems.
 
 My work focuses on defensive security engineering, endpoint visibility, automation, threat detection, and building accessible security tooling for people and organisations that do not always have access to enterprise-grade platforms.
 
-I have a BSc (Hons) in Cyber Security from The Open University and am currently progressing further cyber security study at MSc level. My background combines systems engineering, security operations, automation, backend development, and hands-on lab research.
+I have a BSc (Hons) in Cyber Security from The Open University. My background combines systems engineering, security operations, automation, backend development, and hands-on lab research.
 
 ---
 
